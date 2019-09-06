@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Jabberwocky
+comment0.text=\r\n\ This\ is\ the\ first\ stanza\ of\ the\ Jaberwocky\ poem\r\n\r\n\ @Greg\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
